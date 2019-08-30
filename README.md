@@ -1,1 +1,1 @@
-# STA380
+# STA380 Predictive Modeling
